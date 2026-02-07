@@ -41,15 +41,6 @@ learning: ["Kubernetes", "Terraform", "CI/CD"]
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndresRJ18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresRJ18&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -66,9 +57,6 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 ---
 
-<div align="center">
-  
-![](https://komarev.com/ghpvc/?username=AndresRJ18&color=blueviolet&style=flat-square)
 
 *"The cloud is not a place, it's a way of doing IT"*
 
