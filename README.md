@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Cloud Engineer passionate about building scalable solutions and automating infrastructure. Currently diving deep into cloud technologies and DevOps practices.
+Informatic Engineer passionate about building scalable solutions and automating infrastructure. Currently diving deep into cloud technologies and DevOps practices.
 
 ```yaml
 name: Andres Rodas
