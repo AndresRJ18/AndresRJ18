@@ -9,8 +9,6 @@
 
 </div>
 
----
-
 ## 🚀 About Me
 
 Informatics Engineering student passionate about building scalable solutions and automating infrastructure. Focused on cloud-native architectures, DevOps practices, and AI fundamentals.
@@ -38,7 +36,6 @@ open_to: ["Collaborations", "Cloud projects", "DevOps challenges", "AI/ML deploy
 
 </div>
 
----
 
 ## 🛠️ Languages and Tools
 
@@ -70,7 +67,6 @@ open_to: ["Collaborations", "Cloud projects", "DevOps challenges", "AI/ML deploy
 - 🤖 Connecting **AI/ML theory** to real deployment pipelines
 - 🖥️ Leveling up **Linux** and CLI skills daily
 
----
 
 ## 📫 Let's Connect!
 
