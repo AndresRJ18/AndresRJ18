@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" width="40" />
 
-  # Hi there! I'm Andres Rodas
+  # Hi there! I'm Andres Rodas  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" width="40" />
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-rodas-802309272)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndresRJ18)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andresrodas.exe/)
-  [![Portfolio](https://img.shields.io/badge/website-0072C6?style=for-the-badge&logo=About.me&logoColor=white)](https://andresrodas.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://andresrodas.vercel.app/)
+
 </div>
 
 ---
@@ -70,7 +70,6 @@ open_to: ["Collaborations", "Cloud projects", "DevOps challenges", "AI/ML deploy
 - 🤖 Connecting **AI/ML theory** to real deployment pipelines
 - 🖥️ Leveling up **Linux** and CLI skills daily
 
-
 ---
 
 ## 📫 Let's Connect!
@@ -81,8 +80,8 @@ Always open to interesting conversations, project collaborations, and learning o
 
 <div align="center">
 
-*"The cloud is not a place, it's a way of doing IT"*
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=3000&color=00B4D8&center=true&width=600&lines=The+cloud+is+not+a+place%2C+it's+a+way+of+doing+IT;Infrastructure+as+Code%3A+if+it's+not+in+git%2C+it+doesn't+exist;Automate+everything%2C+document+what+you+can't;Containers+don't+fix+bad+architecture%2C+but+they+help;Every+deployment+is+a+chance+to+do+it+better)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0072C6&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
