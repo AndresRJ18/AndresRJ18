@@ -83,6 +83,6 @@ Always open to interesting conversations, project collaborations, and learning o
 
 *"The cloud is not a place, it's a way of doing IT"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0072C6,FF9900&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0072C6&height=120&section=footer"/>
 
 </div>
