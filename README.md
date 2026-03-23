@@ -70,7 +70,7 @@ open_to: ["Collaborations", "Cloud projects", "DevOps challenges", "AI/ML deploy
 
 ## 📫 Let's Connect!
 
-Always open to interesting conversations, project collaborations, and learning opportunities. Check out my portfolio at [andresrodas.vercel.app](https://andresrodas.vercel.app/)!
+Always open to interesting conversations, project collaborations, and learning opportunities. Check out my portfolio at [andresrodas.cloud](https://andresrodas.cloud/)!
 
 ---
 
