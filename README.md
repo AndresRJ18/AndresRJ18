@@ -4,7 +4,6 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-rodas-802309272)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndresRJ18)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andresrodas.exe/)
   [![Portfolio](https://img.shields.io/badge/website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://andresrodas.cloud/)
 
 </div>
