@@ -10,15 +10,24 @@
 
 ## 🚀 About Me
 
-Informatics Engineering student passionate about building scalable solutions and automating infrastructure. Focused on cloud-native architectures, DevOps practices, and AI fundamentals.
+Informatics Engineering student focused on Machine Learning and Cloud Computing — building ML pipelines that go from raw sensor/environmental data to real deployed endpoints, and automating the cloud infrastructure that ships them. Currently on academic exchange at UNICAMP (Brazil), and selected for GCI World, an international data science/ML program run by the Matsuo-Iwasawa Lab at the University of Tokyo.
 
 ```yaml
 name: Andres Rodas
-located_in: Lima, Peru
-current_focus: ["AWS", "Azure", "Cloud Architecture"]
-learning: ["Kubernetes", "Terraform", "CI/CD", "Linux"]
-open_to: ["Collaborations", "Cloud projects", "DevOps challenges", "AI/ML deployments"]
+located_in: Campinas, Brazil (exchange @ UNICAMP)
+current_focus: ["Time-Series Forecasting", "Cloud Deployment", "Applied ML"]
+learning: ["Kubernetes", "LightGBM", "CI/CD", "Portuguese"]
+open_to: ["Collaborations", "Research internships", "Cloud/AI deployments"]
 ```
+
+---
+
+## 🏆 Highlights
+
+- 🥈 **Silver Medal — Kiwie 2026** (UPCH): led the ML component of QUIM-DETECT2, a portable VIS/NIR spectroscopy system for pesticide detection (PCA, SVM, Random Forest, ANN)
+- 🌍 **Selected for GCI World** (Apr–Jul 2026) — international data science/ML program, Matsuo-Iwasawa Lab, University of Tokyo
+- 🎓 **Academic exchange at UNICAMP**, Institute of Computing — Machine Learning, Software Engineering, Computer Vision
+- 🌫️ Building an **ML pipeline for air quality prediction** (PM2.5) in Campinas, with real cloud deployment
 
 ---
 
@@ -35,12 +44,25 @@ open_to: ["Collaborations", "Cloud projects", "DevOps challenges", "AI/ML deploy
 
 </div>
 
+## 🤖 Machine Learning
+
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+
+</div>
 
 ## 🛠️ Languages and Tools
 
 <div align="center">
 
 [<img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python"/>](https://www.python.org)
+[<img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript"/>](https://www.typescriptlang.org)
 [<img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" title="Bash"/>](https://www.gnu.org/software/bash/)
 [<img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git"/>](https://git-scm.com)
 [<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub"/>](https://github.com)
@@ -51,7 +73,6 @@ open_to: ["Collaborations", "Cloud projects", "DevOps challenges", "AI/ML deploy
 [<img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" title="Linux"/>](https://www.kernel.org)
 [<img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="AWS"/>](https://aws.amazon.com)
 [<img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" title="Azure"/>](https://azure.microsoft.com)
-[<img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" title="PyTorch"/>](https://pytorch.org)
 
 </div>
 
@@ -59,23 +80,22 @@ open_to: ["Collaborations", "Cloud projects", "DevOps challenges", "AI/ML deploy
 
 ## 🎯 Current Focus
 
-- ☁️ Building and deploying solutions on **AWS** and **Azure**
-- 🏗️ Automating infrastructure with **Terraform** and **IaC** principles
-- 🐳 Mastering **containerization** workflows with Docker
-- 🌱 Exploring **container orchestration** with Kubernetes
+- 🌫️ Deploying an **ML pipeline for air quality prediction (PM2.5)** in Campinas, from model to cloud endpoint
+- 🎓 Coursework at **UNICAMP** in Machine Learning, Software Engineering, and Computer Vision
+- 🌏 Working through **GCI World** (Univ. of Tokyo) coursework in applied data science
+- ☁️ Deepening **AWS/Azure** deployment skills — AWS AI & ML Scholars Challenge, AWS Agent Engineer Nanodegree
+- 🏗️ Automating infrastructure with **Terraform** and IaC principles
 - 🤖 Connecting **AI/ML theory** to real deployment pipelines
-- 🖥️ Leveling up **Linux** and CLI skills daily
-
 
 ## 📫 Let's Connect!
 
-Always open to interesting conversations, project collaborations, and learning opportunities. Check out my portfolio at [andresrodas.cloud](https://andresrodas.cloud/)!
+Always open to interesting conversations, research collaborations, and learning opportunities. Check out my portfolio at [andresrodas.cloud](https://andresrodas.cloud/)!
 
 ---
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=3000&color=00B4D8&center=true&width=600&lines=The+cloud+is+not+a+place%2C+it's+a+way+of+doing+IT;Infrastructure+as+Code%3A+if+it's+not+in+git%2C+it+doesn't+exist;Automate+everything%2C+document+what+you+can't;Containers+don't+fix+bad+architecture%2C+but+they+help;Every+deployment+is+a+chance+to+do+it+better)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=3000&color=00B4D8&center=true&width=600&lines=The+cloud+is+not+a+place%2C+it's+a+way+of+doing+IT;Infrastructure+as+Code%3A+if+it's+not+in+git%2C+it+doesn't+exist;Automate+everything%2C+document+what+you+can't;From+sensor+data+to+cloud+endpoint%3A+that's+the+whole+pipeline;Every+deployment+is+a+chance+to+do+it+better)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
